@@ -1,6 +1,7 @@
 faiss-cpu
 sentence-transformers
-transformers
-onnxruntime
-chromadb
-optimum
+transformers 
+torch
+torchvision
+torchaudio
+--extra-index-url https://download.pytorch.org/whl/cu121
