@@ -1,7 +1,9 @@
 faiss-cpu
 sentence-transformers
 transformers 
+
+--extra-index-url https://download.pytorch.org/whl/cu121torch
 torch
 torchvision
 torchaudio
---extra-index-url https://download.pytorch.org/whl/cu121
+
